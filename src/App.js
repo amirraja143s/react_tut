@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
       <LifeCycle props="hello" age="23"/>
+      <h1>hello</h1>
     </div>
   );
 }
